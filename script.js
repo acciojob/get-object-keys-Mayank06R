@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const student = {
   name: "Mayank",
-  age: 22;,
+  age: 22,
   city: "Vadodara"
 };
 
