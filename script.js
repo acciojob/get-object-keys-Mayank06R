@@ -1,8 +1,8 @@
 //your JS code here. If required.
 const student = {
-  name: "Mayank",
-  age: 22,
-  city: "Vadodara"
+  name: "John",
+  age: 30,
+  city: "New York"
 };
 
 // Function to get all keys from the object
